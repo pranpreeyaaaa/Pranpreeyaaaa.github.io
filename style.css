@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Sarabun", sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
@@ -8,8 +8,8 @@ body {
 }
 
 header {
-  background: #4CAF50;
-  color: white;
+  background: #FFE4EC;
+  color: #FFF1E6;
   paddding: 20px 0;
   text-align: center;
 }
@@ -32,7 +32,7 @@ section {
 }
 
 h2 {
-  color: #f6f0f9;
+  color: #D17B49;
 }
 
 .project {
