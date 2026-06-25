@@ -3,13 +3,13 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #E8FFF6;
   color: #333;
 }
 
 header {
   background: #E8FFF6;
-  color: #FFF1E6;
+  color: #D17B49;
   paddding: 20px 0;
   text-align: center;
 }
@@ -26,7 +26,7 @@ section {
   padding: 20px;
   margin: 20px auto;
   max-width: 800px;
-  background: white;
+  background: #FFF1E6;
   border-radius: 8px;
   box-shadow: 0 0 10px rgbe(0, 0, 0, 0.1);
 }
@@ -52,7 +52,7 @@ ul {
 footer {
   text-align: center;
   padding: 10px 0;
-  background: #4A8F7A;
+  background: #E8FFF6A;
   color: #D17B49;
   margin-top: 20px;
 }
